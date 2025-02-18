@@ -26,6 +26,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristin.y/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5Ps9dgT82unN5trGebXivM?si=5d2760f976c64595)
 
+<h3><a href="https://cinthiaferreira-portfolio.vercel.app/"> >>> VISITE MEU PORTFÓLIO  <<<  </a></h3>
+
 <div align="center">
   <table>
     <tr>
@@ -57,9 +59,9 @@
 <br/> 
 
 #### "We could be typical, or we could take a break from this pipe dream;"
-<p align="left">
-  <img align="center" src="./7708fc1593c8385eaa5147d564109bf3.jpg" alt="Imagem">
-</p>
+<div align="center">
+  <img align="center" src="./03e3623da0915e04dfbd5a2d76308bd6.jpg" alt="Imagem">
+</div>
 
 
 ### Estou comprometida em aprimorar continuamente minhas habilidades e contribuir para a evolução da tecnologia. Vejo o aprendizado como um processo constante e enriquecedor, e busco desafios e oportunidades que promovam meu crescimento pessoal e profissional. ⭐✨
