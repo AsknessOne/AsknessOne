@@ -32,7 +32,6 @@
   <table>
     <tr>
       <td><img src="./69b28856241ddc9ee1b856faea64db05 (1).gif"></td>
-      <td><img src="./82672a5e8ff31a1f3958298c32fad291.jpg"></td>
       <td><img src="./fbf3bef502fdf8d66d958a011b71351a (2).jpg"></td>
     </tr>
   </table>
